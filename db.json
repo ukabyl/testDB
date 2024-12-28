@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+        "id": 1,
+        "title": "Test title",
+        "description": "Test description",
+        "price": 99.99,
+        "currency": "USD",
+        "image": "https://example.com/image.jpg"
+        "rating": 4.5
+    }
+  ],
+  "total": 1
+}
